@@ -44,7 +44,7 @@
   			 			trContain.addEventListener("dblclick",function(e){
 
   			 				if(confirm("Seguro quieres eliminar este usuario?")){
-  			 					e.target.remove()
+  			 					trContain.remove()
   			 					contain.textContent = content.length--
   			 				}
 
