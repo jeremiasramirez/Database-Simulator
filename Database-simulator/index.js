@@ -45,7 +45,8 @@
 
   			 				if(confirm("Seguro quieres eliminar este usuario?")){
   			 					e.target.remove()
-  			 					contain.textContent = content.length--
+								   contain.textContent = content.length--;
+							 
   			 				}
 
   			 			})

@@ -1,2 +1,0 @@
-# Database-Simulator
-Database simulator
